@@ -32,7 +32,7 @@
 | **[🤖 Healthcare ChatBot](https://github.com/HarshPanchal-14)** | AI chatbot for symptom checking & appointment booking | `Python` `NLP` `TensorFlow` |
 | **[😃 Face Emotion Recognition](https://github.com/HarshPanchal-14)** | Real-time facial expression analysis system | `OpenCV` `CNN` `Keras` |
 | **[📊 Student Attendance System](https://github.com/HarshPanchal-14)** | Automated attendance tracking solution | `Python` `SQL` `Flask` |
-| **[🔄 Skill Swap Platform](https://github.com/HarshPanchal-14/skill-swap-platform)** | React.js-based platform for exchanging skills with swap requests, ratings, admin dashboard, and responsive UI | `React.js` `Tailwind CSS` `React Query` `Socket.io` |
+| **[🔄 Skill Swap Platform]([https://github.com/HarshPanchal-14/skill-swap-platform])** | React.js-based platform for exchanging skills with swap requests, ratings, admin dashboard, and responsive UI | `React.js` `Tailwind CSS` `React Query` `Socket.io` |
 
 ## 📜 Certifications
 [![Google AI](https://img.shields.io/badge/Google-Generative_AI-4285F4?style=flat-square&logo=google)](https://cloud.google.com/certification)
